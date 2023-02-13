@@ -7,11 +7,12 @@ This is mostly game recreations that were assigned to us. I mean, it's honestly 
 
 | Project Name | Date Assigned | Date turned in |
 |:-:|:-:|:-:|
-|Cubethon|November 14, 2022|November 18, 2022|
-|Snake|November 14, 2022|November 18, 2022|
+|Cubethon|October 31, 2022|November 18, 2022|
 |Pong|November 28, 2022|December 9, 2022|
 |Brick Breaker|January 3, 2023|January 13, 2023|
 |Snake|January 17, 2023|January 20, 2023|
 |Space Invaders|January 23, 2023|February 7, 2023|
+|idk what to call it rn|February 8, 2023| TBD|
 
-That't about it. Final builds are located on the left side over there -->
+That't about it. More information about each game can be found in their respective release notes.\
+Also, ignore the soruce code thats found under each of the releases. This just contains all the source code for every game. So if you want the source of just one game, just download one of the folders in the main branch.
